@@ -13,3 +13,4 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
 ## Local development
 
 1. Open index.html in your browser.
+2. Have fun.
